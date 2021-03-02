@@ -19,7 +19,8 @@
 #
 -->
 # Cordova-node-xcode Release Notes
-
+### 3.0.2 (Mar 02, 2021)
+* support custom Resources PbxGroup(compatibly HBuilder Plus SDK)
 ### 3.0.1 (May 15, 2020)
 
 * [GH-109](https://github.com/apache/cordova-node-xcode/pull/109) Add targetName to paramter to getBuildProperty
