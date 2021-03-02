@@ -32,11 +32,11 @@ Allows you to edit xcodeproject files and write them back out.
 
 based on donated code from [alunny / node-xcode](https://github.com/alunny/node-xcode)
 
-## Example
+## Example([中文](https://www.jianshu.com/p/cce3169ba9fc))
 
 ```js
 // API is a bit wonky right now
-var xcode = require('xcode'),
+var xcode = require('@youtuosoft/xcodexcode'),
     fs = require('fs'),
     projectPath = 'myproject.xcodeproj/project.pbxproj',
     myProj = xcode.project(projectPath);
