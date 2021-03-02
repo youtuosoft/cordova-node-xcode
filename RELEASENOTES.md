@@ -19,6 +19,10 @@
 #
 -->
 # Cordova-node-xcode Release Notes
+### 3.0.5 (Mar 03, 2021)
+* fix addResourceFile
+* addStaticLibrary添加到Framework pbxGroup
+* 消自动添加LIBRARY_SEARCH_PATHS，这会造成大量重复的路径，而且是错的
 ### 3.0.2 (Mar 02, 2021)
 * support custom Resources PbxGroup(compatibly HBuilder Plus SDK)
 ### 3.0.1 (May 15, 2020)
