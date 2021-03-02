@@ -20,7 +20,7 @@
 -->
 # cordova-node-xcode
 
-[![NPM](https://nodei.co/npm/xcode.png?compact=true)](https://nodei.co/npm/xcode/)
+[![NPM](https://nodei.co/npm/@youtuosoft/xcode.png?compact=true)](https://nodei.co/npm/@youtuosoft/xcode/)
 
 [![Node CI](https://github.com/apache/cordova-node-xcode/workflows/Node%20CI/badge.svg?branch=master)](https://github.com/apache/cordova-node-xcode/actions?query=branch%3Amaster)
 
