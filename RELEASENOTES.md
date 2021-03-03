@@ -19,6 +19,8 @@
 #
 -->
 # Cordova-node-xcode Release Notes
+### 3.0.6 (Mar 03, 2021)
+* 添加Framework,Library,HeaderFile时检测SEARCH_PATH如果已存在的不再重复添加SEARCH_PATH,同时移除时不删除SEARCH_PATH(很少用到移除操作)
 ### 3.0.5 (Mar 03, 2021)
 * fix addResourceFile
 * addStaticLibrary添加到Framework pbxGroup
